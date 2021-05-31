@@ -39,7 +39,6 @@
   "main": "index.js",
   "author": "",
   "license": "ISC",
-},
-"homepage":
-"http://ankitranjan24.github.io/moneyu-react"
+  },
+  "homepage":"http://ankitranjan24.github.io/moneyu-react-app-master"
 }
